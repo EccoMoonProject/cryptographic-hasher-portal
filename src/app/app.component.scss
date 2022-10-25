@@ -1,0 +1,22 @@
+.form-group {
+   // center the div
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    // center the label
+    label {
+        margin: 0 auto;
+    }
+
+    // center the input
+    input {
+        margin: 0 auto;
+    }
+}
+
+
+.fa {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+}

@@ -1,0 +1,58 @@
+
+.example-card {
+  max-width: 800px;
+  // 
+
+  .mat-card-title {
+    display: flex;
+  }
+}
+.box-input-2 {
+  margin-top: 30px;
+
+  .mat-form-field {
+    width: 100%;
+  }
+
+  .mat-form-field-infix {
+    padding: 0;
+  }
+
+  .mat-form-field-label-wrapper {
+    padding: 0;
+  }
+}
+
+.box-input-3 {
+  margin-top: 30px;
+
+  .mat-form-field {
+    width: 100%;
+  }
+
+  .mat-form-field-infix {
+    padding: 0;
+  }
+
+  .mat-form-field-label-wrapper {
+    padding: 0;
+  }
+}
+
+.cipher-message {
+  margin-left: 10px;
+  color: rgb(70, 7, 86);
+  // be sure that text is always in areas
+  word-break: break-all;
+  
+}
+
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
